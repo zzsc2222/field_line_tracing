@@ -1,7 +1,6 @@
 ﻿# FILED-LINE-TRANCING
 A beta version without notes of field-line tracing.  
-![cfqs_zeta_0_45_90]([https://github.com/zzsc2222/field_line_tracing/blob/main/CFQS_poincar%C3%A9_plots.png]  
-<img src="https://github.com/zzsc2222/field_line_tracing/blob/main/CFQS_poincar%C3%A9_plots.png" width="200" height="200" alt="cfqs_zeta_0_45_90"/>  
+<img src="https://github.com/zzsc2222/field_line_tracing/blob/main/CFQS_poincar%C3%A9_plots.png" width="400" height="400" alt="cfqs_zeta_0_45_90"/>  
 
 ## Requirements  
 C++ with Eigen and OpenMP  
