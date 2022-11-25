@@ -1,5 +1,5 @@
 ﻿# FIELD-LINE-TRACING
-**A __beta version__ (without comments) of 3D field-line tracing.**  
+**A ___beta version___ (without comments) of 3D field-line tracing.**  
   
 <img src="https://github.com/zzsc2222/field_line_tracing/blob/main/CFQS_poincar%C3%A9_plots.png" width="400" height="400" alt="cfqs_zeta_0_45_90"/>  
 
