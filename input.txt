@@ -23,5 +23,5 @@ zeta_of_poincare[2] = 1.570796326794897
 order_of_fitting = 20
 
 axis_guess_R = 0.835
-axis_guess_zeta = 0.5*pi
+axis_guess_zeta = 1.570796326794897
 axis_guess_Z = 0.00
