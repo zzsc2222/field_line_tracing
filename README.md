@@ -1,7 +1,7 @@
 ﻿# FILED-LINE-TRANCING
 A beta version without notes of field-line tracing.  
-![cfqs_zeta_0_45_90](https://github.com/仓库名/项目名/blob/master/m/20200424230237910.jpg](https://github.com/zzsc2222/field_line_tracing/blob/main/CFQS_poincar%C3%A9_plots.png)  
-<img src="[https://github.com/仓库名/项目名/blob/master/m/20200424230237910.jpg](https://github.com/zzsc2222/field_line_tracing/blob/main/CFQS_poincar%C3%A9_plots.png)" width="200" height="200" alt="cfqs_zeta_0_45_90"/>  
+![cfqs_zeta_0_45_90]([https://github.com/zzsc2222/field_line_tracing/blob/main/CFQS_poincar%C3%A9_plots.png]  
+<img src="https://github.com/zzsc2222/field_line_tracing/blob/main/CFQS_poincar%C3%A9_plots.png" width="200" height="200" alt="cfqs_zeta_0_45_90"/>  
 
 ## Requirements  
 C++ with Eigen and OpenMP  
